@@ -18,13 +18,13 @@
 
 | カテゴリ | 技術 |
 | :--- | :--- |
-| 使える言語<br />（開発・実習で使用） | <img src="./assets/skills/ts.svg" alt="TypeScript" width="32" height="32" /> <img src="./assets/skills/js.svg" alt="JavaScript" width="32" height="32" /> <img src="./assets/skills/py.svg" alt="Python" width="32" height="32" /> <img src="./assets/skills/sql.svg" alt="SQL" width="32" height="32" /><br />TypeScript / JavaScript / Python / SQL |
-| マークアップ・スタイル | <img src="./assets/skills/html.svg" alt="HTML" width="32" height="32" /> <img src="./assets/skills/css.svg" alt="CSS" width="32" height="32" /><br />HTML / CSS |
-| フレームワーク・ライブラリ | <img src="./assets/skills/react.svg" alt="React・React Native" width="32" height="32" /> <img src="./assets/skills/expo.svg" alt="Expo" width="32" height="32" /> <img src="./assets/skills/hono.svg" alt="Hono" width="32" height="32" /><br />React / React Native / Expo / Hono |
-| クラウド・データベース | <img src="./assets/skills/workers.svg" alt="Cloudflare Workers" width="32" height="32" /> <img src="./assets/skills/d1.svg" alt="Cloudflare D1" width="32" height="32" /><br />Cloudflare Workers / D1 |
-| 開発・テスト | <img src="./assets/skills/git.svg" alt="Git" width="32" height="32" /> <img src="./assets/skills/github.svg" alt="GitHub" width="32" height="32" /> <img src="./assets/skills/vitest.svg" alt="Vitest" width="32" height="32" /><br />Git / GitHub / Vitest |
-| 外部サービス連携 | Microsoft Graph / OneDrive / Excel |
-| 学習中の言語 | <img src="./assets/skills/kotlin.svg" alt="Kotlin" width="32" height="32" /> <img src="./assets/skills/c.svg" alt="C" width="32" height="32" /> <img src="./assets/skills/cs.svg" alt="C#" width="32" height="32" /><br />Kotlin / C / C# |
+| できる：言語 | <img src="./assets/skills/py.svg" alt="Python" width="32" height="32" /> <img src="./assets/skills/ts.svg" alt="TypeScript" width="32" height="32" /> <img src="./assets/skills/c.svg" alt="C" width="32" height="32" /><br />Python / TypeScript / C |
+| できる：マークアップ・スタイル | <img src="./assets/skills/html.svg" alt="HTML" width="32" height="32" /> <img src="./assets/skills/css.svg" alt="CSS" width="32" height="32" /><br />HTML / CSS |
+| できる：フレームワーク・ライブラリ | <img src="./assets/skills/react.svg" alt="React" width="32" height="32" /><br />React |
+| できる：データベース・バックエンド | <img src="./assets/skills/mysql.svg" alt="MySQL" width="32" height="32" /> <img src="./assets/skills/firebase.svg" alt="Firebase" width="32" height="32" /><br />MySQL / Firebase |
+| 学習中：言語 | <img src="./assets/skills/go.svg" alt="Go" width="32" height="32" /> <img src="./assets/skills/cs.svg" alt="C#" width="32" height="32" /><br />Go / C# |
+| 学習中：フレームワーク・ライブラリ | <img src="./assets/skills/nextjs.svg" alt="Next.js" width="32" height="32" /> <img src="./assets/skills/threejs.svg" alt="Three.js" width="32" height="32" /><br />Next.js / Three.js |
+| 学習中：クラウド・ハードウェア | <img src="./assets/skills/aws.svg" alt="AWS" width="32" height="32" /> <img src="./assets/skills/raspberrypi.svg" alt="Raspberry Pi" width="32" height="32" /><br />AWS / Raspberry Pi |
 | 興味のある分野・技術 | <img src="./assets/skills/ros.svg" alt="ROS" width="32" height="32" /><br />AIシステム / 自動運転 / ROS（ロボット向けソフトウェア） |
 
 ## Activity
