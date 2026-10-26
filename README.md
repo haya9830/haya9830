@@ -14,71 +14,18 @@
 | 農業 | アメリカで約1年間の農場実務を経験し、品質管理（QC）の研修に取り組みました。カリフォルニア大学デービス校で農業経営・マーケティングを学習。 |
 | ソフトウェア・AI | HAL名古屋でAIシステム開発を専攻。Web・モバイルアプリを制作しています。 |
 
-<h2 align="center">Tech Stack</h2>
+## Tech Stack
 
-<div align="center">
-
-<h3>💻 Language Skills</h3>
-<p><strong>使える言語・制作で使用</strong></p>
-<p>
-  <img src="./assets/skills/ts.svg" alt="TypeScript" height="44" />
-  <img src="./assets/skills/sql.svg" alt="SQL" height="44" />
-  <img src="./assets/skills/html.svg" alt="HTML" height="44" />
-  <img src="./assets/skills/css.svg" alt="CSS" height="44" />
-</p>
-<p>TypeScript / SQL<br />マークアップ・スタイル：HTML / CSS</p>
-
-<br />
-
-<h3>📚 Frameworks & Libraries</h3>
-<p>
-  <img src="./assets/skills/react.svg" alt="React・React Native" height="44" />
-  <img src="./assets/skills/expo.svg" alt="Expo" height="44" />
-  <img src="./assets/skills/hono.svg" alt="Hono" height="44" />
-</p>
-<p>React / React Native / Expo / Hono</p>
-
-<br />
-
-<h3>☁️ Database & Infrastructure</h3>
-<p>
-  <img src="./assets/skills/workers.svg" alt="Cloudflare Workers" height="44" />
-  <img src="./assets/skills/d1.svg" alt="Cloudflare D1" height="44" />
-</p>
-<p>Cloudflare Workers / D1</p>
-
-<br />
-
-<h3>🔧 Tools & Integrations</h3>
-<p>
-  <img src="./assets/skills/git.svg" alt="Git" height="44" />
-  <img src="./assets/skills/github.svg" alt="GitHub" height="44" />
-  <img src="./assets/skills/vitest.svg" alt="Vitest" height="44" />
-</p>
-<p>Git / GitHub / Vitest<br />外部サービス連携：Microsoft Graph / OneDrive / Excel</p>
-
-<br />
-
-<h3>📖 Currently Learning</h3>
-<p><strong>学習中の言語</strong></p>
-<p>
-  <img src="./assets/skills/kotlin.svg" alt="Kotlin" height="44" />
-  <img src="./assets/skills/c.svg" alt="C" height="44" />
-  <img src="./assets/skills/cpp.svg" alt="C++" height="44" />
-  <img src="./assets/skills/cs.svg" alt="C#" height="44" />
-</p>
-<p>Kotlin / C / C++ / C#</p>
-
-<br />
-
-<h3>🤖 Interested In</h3>
-<p><strong>興味のある技術</strong></p>
-<p>
-  <img src="./assets/skills/ros.svg" alt="ROS" height="44" />
-</p>
-<p>ROS — ロボット向けソフトウェアの開発</p>
-
-</div>
+| カテゴリ | 技術 |
+| :--- | :--- |
+| 使える言語<br />（開発で使用） | <img src="./assets/skills/ts.svg" alt="TypeScript" width="32" height="32" /> <img src="./assets/skills/sql.svg" alt="SQL" width="32" height="32" /><br />TypeScript / SQL |
+| マークアップ・スタイル | <img src="./assets/skills/html.svg" alt="HTML" width="32" height="32" /> <img src="./assets/skills/css.svg" alt="CSS" width="32" height="32" /><br />HTML / CSS |
+| フレームワーク・ライブラリ | <img src="./assets/skills/react.svg" alt="React・React Native" width="32" height="32" /> <img src="./assets/skills/expo.svg" alt="Expo" width="32" height="32" /> <img src="./assets/skills/hono.svg" alt="Hono" width="32" height="32" /><br />React / React Native / Expo / Hono |
+| クラウド・データベース | <img src="./assets/skills/workers.svg" alt="Cloudflare Workers" width="32" height="32" /> <img src="./assets/skills/d1.svg" alt="Cloudflare D1" width="32" height="32" /><br />Cloudflare Workers / D1 |
+| 開発・テスト | <img src="./assets/skills/git.svg" alt="Git" width="32" height="32" /> <img src="./assets/skills/github.svg" alt="GitHub" width="32" height="32" /> <img src="./assets/skills/vitest.svg" alt="Vitest" width="32" height="32" /><br />Git / GitHub / Vitest |
+| 外部サービス連携 | Microsoft Graph / OneDrive / Excel |
+| 学習中の言語 | <img src="./assets/skills/kotlin.svg" alt="Kotlin" width="32" height="32" /> <img src="./assets/skills/c.svg" alt="C" width="32" height="32" /> <img src="./assets/skills/cpp.svg" alt="C++" width="32" height="32" /> <img src="./assets/skills/cs.svg" alt="C#" width="32" height="32" /><br />Kotlin / C / C++ / C# |
+| 興味のある技術 | <img src="./assets/skills/ros.svg" alt="ROS" width="32" height="32" /><br />ROS — ロボット向けソフトウェアの開発 |
 
 ## Activity
 
