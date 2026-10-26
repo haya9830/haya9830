@@ -28,7 +28,7 @@ USERNAME = "haya9830"
 JST = timezone(timedelta(hours=9))
 UTC = timezone.utc
 ROOT = Path(__file__).resolve().parents[1]
-OUTPUT = ROOT / "assets" / "activity.svg"
+OUTPUT = ROOT / "assets" / "public-activity.svg"
 MONTH_NAMES = ("Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec")
 
 

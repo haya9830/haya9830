@@ -31,7 +31,7 @@
 
 ## Activity
 
-<img src="./assets/activity.svg" width="100%" alt="GitHubの公開アクティビティ。月別のコントリビューションと公開の開発活動。集計期間と更新日はカード内に表示しています。" />
+<img src="./assets/public-activity.svg" width="100%" alt="GitHubの公開アクティビティ。月別のコントリビューションと公開の開発活動。集計期間と更新日はカード内に表示しています。" />
 
 [公開したPull Requests](https://github.com/search?q=author%3Ahaya9830+is%3Apr&type=pullrequests) &nbsp; · &nbsp; [Repositories](https://github.com/haya9830?tab=repositories)
 
