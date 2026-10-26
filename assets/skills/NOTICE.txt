@@ -2,7 +2,7 @@ Icon sources
 ============
 
 The following SVGs are from Skill Icons (https://github.com/tandpfun/skill-icons):
-ts, html, css, react, workers, git, github, vitest, kotlin, c, cpp, cs, ros.
+ts, js, py, html, css, react, workers, git, github, vitest, kotlin, c, cpp, cs, ros.
 They are included under the MIT license reproduced below.
 
 MIT License
