@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="292" viewBox="0 0 960 292" role="img" aria-labelledby="title desc">
+  <title id="title">haya9830 — Agriculture, Machinery, Software</title>
+  <desc id="desc">An original forest-green banner connecting cultivated fields, a machine gear, and a code terminal.</desc>
+  <defs>
+    <clipPath id="canvas"><rect width="960" height="292" rx="18"/></clipPath>
+    <clipPath id="field"><path d="M601 144H960V292H601z"/></clipPath>
+  </defs>
+  <g clip-path="url(#canvas)">
+    <rect width="960" height="292" fill="#10271f"/>
+    <rect x=".5" y=".5" width="959" height="291" rx="17.5" fill="none" stroke="#315045"/>
+    <path d="M603 0v292" stroke="#315045"/>
+    <g fill="none" stroke="#41694f" stroke-width="1.5" clip-path="url(#field)">
+      <path d="M570 292c58-120 157-112 243-91s140 11 181-63"/>
+      <path d="M596 313c53-118 144-119 228-95s135 12 182-57"/>
+      <path d="M622 334c47-116 131-126 213-99s131 13 183-51"/>
+      <path d="M648 355c41-114 118-133 198-103s126 14 184-45"/>
+      <path d="M674 376c35-112 105-140 183-107s122 15 185-39"/>
+      <path d="M544 271c64-122 170-105 258-87s144 10 179-69"/>
+      <path d="M518 250c70-124 183-98 273-83s149 9 179-75"/>
+    </g>
+    <path d="M634 31h22m-11-11v22M917 237h15m-7.5-7.5v15" stroke="#7b9d80" stroke-width="1.5"/>
+    <text x="38" y="44" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="2.3" fill="#a5c4a4">AGRICULTURE · MACHINERY · SOFTWARE</text>
+    <text x="36" y="127" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-weight="700" font-size="68" letter-spacing="-2.5" fill="#f5f0df">haya9830</text>
+    <text x="40" y="168" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="21" fill="#c4d0bd">From the field to the screen.</text>
+    <path d="M39 206h521" stroke="#315045"/>
+    <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" letter-spacing="1.8" fill="#d6e0c8">
+      <circle cx="44" cy="247" r="4" fill="#afcc7c"/>
+      <text x="60" y="252">FIELD</text>
+      <path d="m166 238-8 18" stroke="#6d8e70"/>
+      <text x="204" y="252">MACHINE</text>
+      <path d="m342 238-8 18" stroke="#6d8e70"/>
+      <text x="380" y="252">CODE</text>
+    </g>
+    <g transform="translate(651 47)">
+      <rect x="27" y="0" width="229" height="150" rx="10" fill="#17382b" stroke="#84a577" stroke-width="1.5"/>
+      <path d="M27 28h229" stroke="#45654f"/>
+      <circle cx="42" cy="14" r="3" fill="#a8c584"/>
+      <circle cx="54" cy="14" r="3" fill="#6e9170"/>
+      <circle cx="66" cy="14" r="3" fill="#45654f"/>
+      <text x="240" y="18" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="8" letter-spacing="1.3" fill="#a5bea0">REAL-WORLD / BUILD</text>
+      <path d="m96 60-23 20 23 20m91-40 23 20-23 20m-37-47-16 54" fill="none" stroke="#d9e7bd" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M81 126h124" stroke="#45654f" stroke-width="2"/>
+      <path d="M81 126h50" stroke="#a8c584" stroke-width="2"/>
+      <g transform="translate(38 160)">
+        <path d="m-8-35 3-9h10l3 9 8 4 9-2 5 9-6 7v9l6 7-5 9-9-2-8 4-3 9H-5l-3-9-8-4-9 2-5-9 6-7v-9l-6-7 5-9 9 2z" fill="#203e2c" stroke="#b4c88e" stroke-width="1.7"/>
+        <circle cy="-12" r="14" fill="none" stroke="#b4c88e" stroke-width="1.7"/>
+        <circle cy="-12" r="4" fill="#b4c88e"/>
+      </g>
+      <path d="M84 181h81l19-19" stroke="#a0bd87" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+      <circle cx="187" cy="159" r="3" fill="#a0bd87"/>
+    </g>
+  </g>
+</svg>

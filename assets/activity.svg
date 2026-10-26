@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title description">
+  <title id="title">Public GitHub activity - initial generation pending</title>
+  <desc id="description">This card will display haya9830's public contribution activity after the first GitHub Actions run.</desc>
+  <rect x="0.5" y="0.5" width="959" height="299" rx="18" fill="#0d1b16" stroke="#284b38"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="32" y="29" width="5" height="17" rx="2" fill="#9cdda8"/>
+    <text x="48" y="43" fill="#dff2e4" font-size="16" font-weight="700" letter-spacing="1">PUBLIC GITHUB ACTIVITY</text>
+    <text x="48" y="138" fill="#f0f7f1" font-size="28" font-weight="700">The first update is on its way.</text>
+    <text x="48" y="178" fill="#9ab9a5" font-size="16">Public contribution data, updated daily with GitHub Actions.</text>
+    <path d="M48 222H912" stroke="#284b38"/>
+    <text x="48" y="257" fill="#9ab9a5" font-size="12">haya9830 / public repositories only</text>
+  </g>
+</svg>

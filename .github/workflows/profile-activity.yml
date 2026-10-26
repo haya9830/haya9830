@@ -1,0 +1,37 @@
+name: Update public activity card
+
+on:
+  schedule:
+    - cron: '20 21 * * *' # 06:20 JST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-activity
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate public contribution card
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/update_activity.py
+
+      - name: Commit changed card
+        run: |
+          git add -- assets/activity.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'docs: refresh public activity card'
+          git push

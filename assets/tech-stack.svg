@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="198" viewBox="0 0 960 198" role="img" aria-labelledby="title desc">
+  <title id="title">Technologies used in projects</title>
+  <desc id="desc">Web: TypeScript and React. API and data: Hono and Cloudflare Workers/D1. Mobile: React Native and Expo. Workflow: Git, GitHub and Vitest.</desc>
+  <rect x=".5" y=".5" width="959" height="197" rx="14" fill="#10271f" stroke="#315045"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <path d="M240 23v152M480 23v152M720 23v152" stroke="#315045"/>
+    <g fill="#a5c4a4" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="1.8">
+      <text x="24" y="35">WEB</text><text x="264" y="35">API / DATA</text><text x="504" y="35">MOBILE</text><text x="744" y="35">WORKFLOW</text>
+    </g>
+    <g transform="translate(24 55)">
+      <rect width="36" height="36" rx="8" fill="#2f5773"/>
+      <text x="18" y="24" text-anchor="middle" fill="#ecf0e7" font-size="17" font-weight="700">TS</text>
+      <text x="48" y="23" fill="#f5f0df" font-size="18">TypeScript</text>
+    </g>
+    <g transform="translate(24 109)">
+      <rect width="36" height="36" rx="8" fill="#1d4650"/>
+      <g transform="translate(18 18)" stroke="#91c9cf" fill="none" stroke-width="1.25"><ellipse rx="13" ry="5"/><ellipse rx="13" ry="5" transform="rotate(60)"/><ellipse rx="13" ry="5" transform="rotate(120)"/></g>
+      <circle cx="18" cy="18" r="2" fill="#91c9cf"/>
+      <text x="48" y="23" fill="#f5f0df" font-size="18">React</text>
+    </g>
+    <g transform="translate(264 55)">
+      <rect width="36" height="36" rx="8" fill="#59442b"/>
+      <path d="M19 7c2 8 10 9 9 16a10 10 0 0 1-20-1c0-5 4-8 6-12 0 5 1 7 4 8 3-4 1-8 1-11z" fill="#dba65d"/>
+      <text x="48" y="23" fill="#f5f0df" font-size="18">Hono</text>
+    </g>
+    <g transform="translate(264 109)">
+      <rect width="36" height="36" rx="8" fill="#59442b"/>
+      <path d="M9 24h19a5 5 0 0 0-2-9 8 8 0 0 0-15-1 5 5 0 0 0-2 10z" fill="none" stroke="#dba65d" stroke-width="1.7"/>
+      <text x="48" y="16" fill="#f5f0df" font-size="16">Cloudflare</text>
+      <text x="48" y="36" fill="#c4d0bd" font-size="13">Workers / D1</text>
+    </g>
+    <g transform="translate(504 55)">
+      <rect width="36" height="36" rx="8" fill="#1d4650"/>
+      <rect x="11" y="6" width="14" height="24" rx="3" fill="none" stroke="#91c9cf" stroke-width="1.5"/>
+      <path d="M16 26h4" stroke="#91c9cf" stroke-width="1.5"/>
+      <text x="48" y="23" fill="#f5f0df" font-size="18">React Native</text>
+    </g>
+    <g transform="translate(504 109)">
+      <rect width="36" height="36" rx="8" fill="#2d3d42"/>
+      <path d="m8 26 10-17 10 17M14 26l4-7 4 7" fill="none" stroke="#dbe2d6" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="48" y="23" fill="#f5f0df" font-size="18">Expo</text>
+    </g>
+    <g transform="translate(744 55)">
+      <rect width="36" height="36" rx="8" fill="#4e4036"/>
+      <path d="M12 9v17m0-10c10 0 12 1 12 10" fill="none" stroke="#d7a17b" stroke-width="1.8"/>
+      <g fill="#d7a17b"><circle cx="12" cy="9" r="3"/><circle cx="12" cy="27" r="3"/><circle cx="24" cy="27" r="3"/></g>
+      <text x="48" y="23" fill="#f5f0df" font-size="18">Git / GitHub</text>
+    </g>
+    <g transform="translate(744 109)">
+      <rect width="36" height="36" rx="8" fill="#3c4d29"/>
+      <path d="m9 19 6 6 13-15" fill="none" stroke="#c7d395" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="48" y="23" fill="#f5f0df" font-size="18">Vitest</text>
+    </g>
+    <text x="24" y="178" fill="#93ad91" font-size="11">TOOLS USED ACROSS WEB, API AND MOBILE PROJECTS</text>
+  </g>
+</svg>
