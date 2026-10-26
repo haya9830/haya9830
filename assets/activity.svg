@@ -1,13 +1,49 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title description">
-  <title id="title">Public GitHub activity - initial generation pending</title>
-  <desc id="description">This card will display haya9830's public contribution activity after the first GitHub Actions run.</desc>
-  <rect x="0.5" y="0.5" width="959" height="299" rx="18" fill="#0d1b16" stroke="#284b38"/>
-  <g font-family="Arial, Helvetica, sans-serif">
-    <rect x="32" y="29" width="5" height="17" rx="2" fill="#9cdda8"/>
-    <text x="48" y="43" fill="#dff2e4" font-size="16" font-weight="700" letter-spacing="1">PUBLIC GITHUB ACTIVITY</text>
-    <text x="48" y="138" fill="#f0f7f1" font-size="28" font-weight="700">The first update is on its way.</text>
-    <text x="48" y="178" fill="#9ab9a5" font-size="16">Public contribution data, updated daily with GitHub Actions.</text>
-    <path d="M48 222H912" stroke="#284b38"/>
-    <text x="48" y="257" fill="#9ab9a5" font-size="12">haya9830 / public repositories only</text>
-  </g>
+<title id="title">Public GitHub activity - haya9830</title>
+<desc id="description">Public GitHub contributions for haya9830, Nov 2025 - Oct 2026, using UTC calendar months: 152 contributions, 127 commits, 20 opened pull requests. Current month is incomplete.</desc>
+<rect x="0.5" y="0.5" width="959" height="299" rx="18" fill="#0d1b16" stroke="#284b38"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<rect x="32" y="29" width="5" height="17" rx="2" fill="#9cdda8"/>
+<text x="48" y="43" fill="#dff2e4" font-size="16" font-weight="700" letter-spacing="1">PUBLIC GITHUB ACTIVITY</text>
+<text x="925" y="42" fill="#9ab9a5" font-size="12" text-anchor="end">Updated 2026-10-26 JST</text>
+<text x="32" y="98" fill="#f0f7f1" font-size="36" font-weight="700">152</text>
+<text x="32" y="120" fill="#9ab9a5" font-size="12">Contributions</text>
+<text x="250" y="98" fill="#f0f7f1" font-size="36" font-weight="700">127</text>
+<text x="250" y="120" fill="#9ab9a5" font-size="12">Commits</text>
+<text x="468" y="98" fill="#f0f7f1" font-size="36" font-weight="700">20</text>
+<text x="468" y="120" fill="#9ab9a5" font-size="12">Pull requests opened</text>
+<text x="925" y="100" fill="#dff2e4" font-size="12" text-anchor="end">Monthly contributions</text>
+<text x="925" y="120" fill="#9ab9a5" font-size="11" text-anchor="end">Nov 2025 - Oct 2026</text>
+<path d="M32 242H928" stroke="#284b38"/>
+<rect x="46.0" y="239" width="44" height="3" rx="4" fill="#4d9469"><title>2025-11: 0 public contributions</title></rect>
+<text x="68.0" y="260" fill="#a9c4b2" font-size="11" text-anchor="middle">Nov</text>
+<rect x="120.5" y="239" width="44" height="3" rx="4" fill="#4d9469"><title>2025-12: 0 public contributions</title></rect>
+<text x="142.5" y="260" fill="#a9c4b2" font-size="11" text-anchor="middle">Dec</text>
+<rect x="195.0" y="239" width="44" height="3" rx="4" fill="#4d9469"><title>2026-01: 0 public contributions</title></rect>
+<text x="217.0" y="260" fill="#a9c4b2" font-size="11" text-anchor="middle">Jan</text>
+<rect x="269.5" y="239" width="44" height="3" rx="4" fill="#4d9469"><title>2026-02: 0 public contributions</title></rect>
+<text x="291.5" y="260" fill="#a9c4b2" font-size="11" text-anchor="middle">Feb</text>
+<rect x="344.0" y="239" width="44" height="3" rx="4" fill="#4d9469"><title>2026-03: 0 public contributions</title></rect>
+<text x="366.0" y="260" fill="#a9c4b2" font-size="11" text-anchor="middle">Mar</text>
+<rect x="418.5" y="239" width="44" height="3" rx="4" fill="#4d9469"><title>2026-04: 0 public contributions</title></rect>
+<text x="440.5" y="260" fill="#a9c4b2" font-size="11" text-anchor="middle">Apr</text>
+<rect x="493.0" y="239" width="44" height="3" rx="4" fill="#4d9469"><title>2026-05: 0 public contributions</title></rect>
+<text x="515.0" y="260" fill="#a9c4b2" font-size="11" text-anchor="middle">May</text>
+<rect x="567.5" y="216" width="44" height="26" rx="4" fill="#4d9469"><title>2026-06: 24 public contributions</title></rect>
+<text x="589.5" y="208" fill="#dff2e4" font-size="11" text-anchor="middle">24</text>
+<text x="589.5" y="260" fill="#a9c4b2" font-size="11" text-anchor="middle">Jun</text>
+<rect x="642.0" y="214" width="44" height="28" rx="4" fill="#4d9469"><title>2026-07: 26 public contributions</title></rect>
+<text x="664.0" y="206" fill="#dff2e4" font-size="11" text-anchor="middle">26</text>
+<text x="664.0" y="260" fill="#a9c4b2" font-size="11" text-anchor="middle">Jul</text>
+<rect x="716.5" y="234" width="44" height="8" rx="4" fill="#4d9469"><title>2026-08: 7 public contributions</title></rect>
+<text x="738.5" y="226" fill="#dff2e4" font-size="11" text-anchor="middle">7</text>
+<text x="738.5" y="260" fill="#a9c4b2" font-size="11" text-anchor="middle">Aug</text>
+<rect x="791.0" y="167" width="44" height="75" rx="4" fill="#4d9469"><title>2026-09: 69 public contributions</title></rect>
+<text x="813.0" y="159" fill="#dff2e4" font-size="11" text-anchor="middle">69</text>
+<text x="813.0" y="260" fill="#a9c4b2" font-size="11" text-anchor="middle">Sep</text>
+<rect x="865.5" y="214" width="44" height="28" rx="4" fill="#9cdda8"><title>2026-10: 26 public contributions</title></rect>
+<text x="887.5" y="206" fill="#dff2e4" font-size="11" text-anchor="middle">26</text>
+<text x="887.5" y="260" fill="#a9c4b2" font-size="11" text-anchor="middle">Oct</text>
+<text x="32" y="284" fill="#9ab9a5" font-size="10">UTC calendar months. Public repositories only. Current month in progress. GitHub contribution rules apply.</text>
+</g>
 </svg>
