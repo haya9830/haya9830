@@ -4,7 +4,7 @@
 
 機械を学び、米国で農業を経験。現在はHAL名古屋でAIシステム開発を学びながら、稲作の現場にも関わっています。
 
-**[Portfolio ↗](https://nakayama-field-to-ai.newholland33532.chatgpt.site)** · [About](#about) · [Tech Stack](#tech-stack) · [Activity](#activity) · [Projects](#projects)
+**[Portfolio ↗](https://haya9830.github.io/haya9830/)** · [About](#about) · [Tech Stack](#tech-stack) · [Activity](#activity) · [Projects](#projects)
 
 ## About
 
@@ -47,4 +47,4 @@
 | :--- | :--- |
 | TypeScript / React Native / Expo / Microsoft Graph | [Code & README ↗](https://github.com/haya9830/fuel_apply) |
 
-制作物や詳しい経歴は、[ポートフォリオサイト](https://nakayama-field-to-ai.newholland33532.chatgpt.site)にまとめています。
+制作物や詳しい経歴は、[ポートフォリオサイト](https://haya9830.github.io/haya9830/)にまとめています。
