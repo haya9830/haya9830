@@ -41,10 +41,10 @@
 
 ### Fuel Apply
 
-機械の稼働時間・給油量をスマートフォンから入力し、OneDrive上のExcelに記録するアプリのMVPです。農業の現場で必要な記録を、入力しやすい形にすることを目指しています。
+農業機械の月末アワーメーターをスマートフォンから最大12台分まとめて入力し、既存のExcel帳票に転記するPWAです。入力・下書きの復元・Excel帳票への転記はローカルで検証済みです。Google Driveへの実保存は未検証です。
 
 | 使用技術 | 詳細 |
 | :--- | :--- |
-| TypeScript / React Native / Expo / Microsoft Graph | [Code & README ↗](https://github.com/haya9830/fuel_apply) |
+| TypeScript / React Native / Expo / Google Drive API | [Code & README ↗](https://github.com/haya9830/fuel_apply) |
 
 制作物や詳しい経歴は、[ポートフォリオサイト](https://haya9830.github.io/haya9830/)にまとめています。
